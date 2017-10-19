@@ -1,2 +1,2 @@
 # Project 1
-This project has something to do with SMS spam messages
+This project uses Naive Bayesan Analysis to identify SMS spam messages
