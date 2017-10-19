@@ -3,6 +3,6 @@
 This repo is all my work for the Udacity Machine Learning NanoDegree
 
 ## Project 1
-Spam Deteaction
+SMS Spam Deteaction
 
 ## Project 2
