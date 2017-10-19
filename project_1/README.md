@@ -1,2 +1,2 @@
 # Project 1
-This project uses Naive Bayesan Analysis to identify SMS spam messages
+This project uses the Naive Bayes Therom to identify SMS spam messages
